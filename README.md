@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @justsoftwarer
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Unreal Engine
+- 👀 I’m interested in Game Development and Web Development
 - 📫  You can reach me via girginseyitali@gmail.com
 
 <!---
