@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justsoftwarer
-- 👀 I’m interested in Game Development and Web Development
+- 👀 I’m interested in Game Development
 - 📫  You can reach me via girginseyitali@gmail.com
 
 <!---
